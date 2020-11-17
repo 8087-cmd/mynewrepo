@@ -1,0 +1,2 @@
+this file created after cloning git repo to local computer
+and now after commiting it, i will push it to the same github repo
